@@ -1,8 +1,11 @@
 html-game-doodleship
+
 A simple endless "Doodle Ship" game made using "ONLY" HTML, CSS and JavaScript. No complications, just download, learn and play!
 
 About
+
 In this game you have to control a spaceship, while dodging blocks falling. Your score is increased when a block reaches the bottom.
+
 Screenshot
 ![image](https://github.com/user-attachments/assets/49b6f212-a134-4983-afb3-3a7350732519)
 
